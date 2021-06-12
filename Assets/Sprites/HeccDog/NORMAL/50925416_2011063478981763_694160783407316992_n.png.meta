@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 65e4d34cbea1d014bbafb584c5f21b1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TAIL
+    21300002: TORSO
+    21300004: HEAD
+    21300006: NORMAL
+    21300008: HIP
+    21300010: BELLY
+    21300012: NECK
+    21300014: BITE
+    21300016: LOWERLEG_FRONT
+    21300018: UPPERLEG_FRONT
+    21300020: UPPERLEG_BACK
+    21300022: LOWERLEG_BACK
+    21300024: FOOT_FRONT
+    21300026: FOOT_BACK
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TAIL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 715
+        width: 160
+        height: 158
+      alignment: 9
+      pivot: {x: 0.3972667, y: 0.056122985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac0ff68a263c5a45afb195ddd0f3a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORSO
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 680
+        width: 152
+        height: 165
+      alignment: 9
+      pivot: {x: 0.053020276, y: 0.39373854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf096322572e71439abec72c5f8b50a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 795
+        width: 151
+        height: 168
+      alignment: 9
+      pivot: {x: 0.29680103, y: 0.19995372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f5597fdfb31f0419ce22ebca5bb6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NORMAL
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 742
+        width: 79
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1847735, y: 0.7249577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09a129d3c669e499ebd0d61f8d589b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIP
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 476
+        width: 117
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11879d6c83ba64c4db9c1cfd1491e5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BELLY
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 492
+        width: 184
+        height: 144
+      alignment: 9
+      pivot: {x: -0.00026603366, y: 0.6369773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444308075f874549bd0edd5cba4b363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NECK
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 608
+        width: 142
+        height: 132
+      alignment: 9
+      pivot: {x: 0.34565884, y: 0.1928378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007149b371bcd174da4f16fe10137a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BITE
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 599
+        width: 93
+        height: 85
+      alignment: 9
+      pivot: {x: 0.1330514, y: 0.76042193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc17731b842b14e8a9852f1bc383c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOWERLEG_FRONT
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 368
+        width: 36
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5256195, y: 0.916822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2b3a70a16af546bb668fb037a0fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPPERLEG_FRONT
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 89
+      alignment: 9
+      pivot: {x: 0.7305832, y: 0.92489314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605b33c1fb94ef458633af0d0d1d101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UPPERLEG_BACK
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6092234, y: 0.93645966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d98b13c06594c543b9161ef7ef2167d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOWERLEG_BACK
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 347
+        width: 40
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7075241, y: 0.9427181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1b0df7878cdc40bcbd2176a3ab7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOOT_FRONT
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 236
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.18640748, y: 0.67449206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74686cc19f1178d43b8efad8ae595d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOOT_BACK
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 203
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.17334111, y: 0.67736995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7b4eecd467c94490c07e78362ba41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43f9090d70d9f4449bec32c0f9405de3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Lola
+  - Edible
+  - Ground2
+  - Deleter
+  - Plants
+  - Enemy
+  - Player2
+  - Player2Ground
+  - DeleteEdible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NonPlayerGround
+  - Player
+  - PlayerGround
+  - NonPlayer
+  - Edible
+  - Enemy
+  - Player2Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1876745293
+    locked: 0
+  - name: Player & Enemy
+    uniqueID: 403903151
+    locked: 0
+  - name: Eatables
+    uniqueID: 3368122853
+    locked: 0
+  - name: UI
+    uniqueID: 159378843
+    locked: 0
